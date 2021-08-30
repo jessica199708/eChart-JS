@@ -13,4 +13,4 @@ https://jessica199708.github.io/eChart-JS/index.html
 7. ECharts地图引入
 
 ## 预览
-![preview](images/preview.png)
+![preview](https://github.com/jessica199708/eChart-JS/tree/main/imgesimages/preview.png)
